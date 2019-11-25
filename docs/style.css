@@ -31,3 +31,6 @@ img {
   display: block;
   margin: 0 auto;
 }
+li:hover {
+    background-color: green;
+}
