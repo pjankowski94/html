@@ -1,0 +1,13 @@
+"INDEX", "MOST POPULAR", "RECENT"
+Color: Dark Magenta, HEX: 9A009F, RGB: 154,0,159
+Color: Pure Yellow, HEX: FFEA00, RGB: 255,234,0
+Color: Bright Red, HEX: F22C3F, RGB: 242,44,63
+Color: Dark Cyan, HEX: 20B2AA, RGB: 32,178,170
+Color: Solid BLack, HEX: 000000, RGB 0,0,0
+
+
+THE REST OF THE DIRECTORY:
+darkorange	#FF8C00	rgb(255,140,0)
+deepskyblue	#00BFFF	rgb(0,191,255)
+goldenrod	#DAA520	rgb(218,165,32)
+lightseagreen	#20B2AA	rgb(32,178,170)
